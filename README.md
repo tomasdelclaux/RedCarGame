@@ -18,8 +18,6 @@ The red car gamme is a simple pixelated game, where the redCar needs to move acr
 - Right key = moves the red car right
 - Up key = red car accelerates and moves faster
 
-<img src="./redCarGame.png" width="600" height="450"/>
-
 ## Structure
 
 - Game.h/Game.cpp = Object representing the game. It contains objects for redCar, lanes and renderer. It also has private members to keep track of the game difficulty and increase it as the score/distance increases
